@@ -1,0 +1,20 @@
+{
+  "name": "build-git",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mesod/build-git.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mesod/build-git/issues"
+  },
+  "homepage": "https://github.com/Mesod/build-git#readme"
+}
